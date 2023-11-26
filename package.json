@@ -1,0 +1,30 @@
+{
+  "name": "@davit.shahbazian/tsguards",
+  "version": "1.0.0",
+  "description": "function helpers for typescript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahbazyyan/TSguard.git"
+  },
+  "keywords": [
+    "typescript",
+    "guard",
+    "functionhelpers",
+    "type"
+  ],
+  "author": "David Shahbazian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahbazyyan/TSguard/issues"
+  },
+  "homepage": "https://github.com/shahbazyyan/TSguard#readme",
+  "dependencies": {
+    "@davit.shahbazian/tsguards": "^1.0.0",
+    "i": "^0.3.7",
+    "npm": "^10.2.4"
+  }
+}
